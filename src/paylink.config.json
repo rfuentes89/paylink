@@ -2,9 +2,9 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
+    "name": "Raúl Fuentes Blanco",
+    "description": "Biomedical engineer. Aspiring Creator. No-Code enthusiast".
+    "alt": "Photo of Raul",
     "hero": "./images/daniel-castillo.png"
   },
 
@@ -12,63 +12,27 @@
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "mailto:raulfuentesblanco@gmail.com"
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
-    {
-      "label": "GitHub",
-      "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
-    },
+    
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/raulito8909"
     },
-    {
-      "label": "LinkedIn",
-      "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
-    },
-    {
-      "label": "Instagram",
-      "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
-    },
-    { "label": "Discord", "value": "bxl-discord", "link": "" },
-    { "label": "Facebook", "value": "bxl-facebook", "link": "" },
-    { "label": "Medium", "value": "bxl-medium", "link": "" },
-    { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
-    { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
-    { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
-    { "label": "Twitch", "value": "bxl-twitch", "link": "" },
-    { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
-    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
-    { "label": "YouTube", "value": "bxl-youtube", "link": "" },
-    { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
-    { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
+   
+    { "label": "Telegram", "value": "bxl-telegram", "link": "@rfuentes89" },
   ],
 
   "Payments": [
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
-    {
-      "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
-      "img": "./images/payments/busd.svg"
-    },
-    {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
-    },
+    
+    
     {
       "id": "doge",
       "label": "DogeCoin",
@@ -78,7 +42,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -87,52 +51,38 @@
       "value": "",
       "img": "./images/payments/ltc.svg"
     },
-    {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "",
-      "img": "./images/payments/paypal.svg"
-    },
+    
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/usdt.svg"
     },
-    {
-      "id": "sol",
-      "label": "Solana",
-      "value": "",
-      "img": "./images/payments/sol.svg"
-    },
-    {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
-    },
+   
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/rfuentes",
       "img": "./images/payments/qvapay.svg"
     },
+    
     {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
+      "id": "card-mlc",
+      "label": "MLC",
+      "value": "9225-9598-7059-3750",
+      "img": "./images/payments/card.svg"
     },
+    
     {
-      "id": "card",
-      "label": "Card",
-      "value": "",
+      "id": "card-cup",
+      "label": "CUP",
+      "value": "9227-9598-7014-4842",
       "img": "./images/payments/card.svg"
     }
   ],
